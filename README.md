@@ -1,3 +1,4 @@
+![DIP40 interposer boards connected together](https://github.com/baldengineer/DIP40-Interposer-Pair/blob/main/images/Kissing%20Interposers%20v3.png)
 ## DIP40 Interposer Board Pair
 This adapter makes it easier to probe a DIP-40 (0.6" wide) chip using a logic analyzer or mixed-signal oscilloscope. The boards breakout each of the signals.
 
